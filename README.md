@@ -10,7 +10,7 @@ Passionate data science professional with a Bachelor of Geospatial Engineering d
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Bramuel-eng)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://datascienceportfol.io/bramuellyon)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bramuelbukhuni)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home)
 
@@ -32,6 +32,7 @@ Continued academic excellence at Saint Joseph’s Boys National School, earning 
 Obtained a Bachelor of Geospatial Engineering degree from the Technical University of Kenya, graduating with Second Class Honors (Upper Division).
 
 Furthered expertise in data science through enrollment in ALX Africa’s Data Science certification program.
+Masters Of Data Science Student at Deakin University in Melbourne
 
 Positioned as a dedicated data science professional, equipped with skills in geospatial analysis, data analysis, and programming, poised to drive innovation and positive impact.
 
