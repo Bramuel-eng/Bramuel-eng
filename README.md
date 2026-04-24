@@ -2,8 +2,6 @@
 # Hi, I'm Eng Bramuel 👋
 
 
-![Logo](https://github-readme-stats.vercel.app/api?username=Bramuel-eng&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bramuel-eng&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true&cache_seconds=0)
 
 ## 🚀 About Me
