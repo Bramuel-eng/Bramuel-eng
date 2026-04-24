@@ -4,6 +4,7 @@
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=Bramuel-eng&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bramuel-eng&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true&cache_seconds=0)
 
 ## 🚀 About Me
 Passionate data science professional with a Bachelor of Geospatial Engineering degree from the Technical University of Kenya. Skilled in geospatial analysis, data analysis, and programming languages including Python and SQL. Experienced in utilizing data visualization tools such as Power BI to derive actionable insights from complex datasets. Currently enrolled in a Data Science certificate program with ALX Africa, further enhancing expertise in data management and analysis. Dedicated to leveraging technology and data-driven solutions to address real-world challenges. Excited to collaborate on innovative projects and contribute to the data science community. #DataScience #Geospatial #Python #SQL
